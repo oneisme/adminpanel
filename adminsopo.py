@@ -31,17 +31,11 @@ def findAdmin():
 
 def Credit():
 	Space(9); print "########################################"
-	Space(9); print "#   ++++where is my admin panel ++++  #"
-	Space(9); print "#   ++++++  Script by wong-Ndeso  ++++++ #"
+	Space(9); print "#   ++++where is my admin panel ++++   #"
+	Space(9); print "#   ++++++  Script by wong-Ndeso++++++ #"
 	Space(9); print "#   https://godeyes_ndeso.org          #"
 	Space(9); print "########################################"
-Banner ()'''  ██   ██▄   █▀▄▀█ ▄█    ▄   ▄███▄      ▄▄▄▄▄   ████▄ █ ▄▄  ████▄
-█ █  █  █  █ █ █ ██     █  █▀   ▀    █     ▀▄ █   █ █   █ █   █
-█▄▄█ █   █ █ ▄ █ ██ ██   █ ██▄▄    ▄  ▀▀▀▀▄   █   █ █▀▀▀  █   █
-█  █ █  █  █   █ ▐█ █ █  █ █▄   ▄▀  ▀▄▄▄▄▀    ▀████ █     ▀████
-   █ ███▀     █   ▐ █  █ █ ▀███▀                     █
-  █          ▀      █   ██                            ▀
- ▀'''
+	
 
 Credit()
 findAdmin()
